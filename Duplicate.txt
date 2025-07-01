@@ -1,1 +1,2 @@
 The duplicate file!
+The file has been modified after duplicated!!
